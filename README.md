@@ -1,3 +1,3 @@
-# Web Fishing - Metal Gear Alert
+# Web Fishing - Lets Go Gambling
 
-A simple mod for WEBFISHING that plays a Metal Gear alert when you catch a fish.
+A simple mod for WEBFISHING that plays the Lets Go Gambling! meme when you gamble.
