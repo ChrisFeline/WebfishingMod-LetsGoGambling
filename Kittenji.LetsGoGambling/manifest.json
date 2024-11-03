@@ -1,0 +1,11 @@
+{
+  "Id": "Kittenji.LetsGoGambling",
+  "PackPath": "kittenji.lets_go_gambling.pck",
+  "AssemblyPath": "Kittenji.LetsGoGambling.dll",
+  "Metadata": {
+    "Name": "Lets Go Gambling",
+    "Author": "Kittenji",
+    "Version": "1.0.0",
+    "Description": "Plays the 'Lets Go Gambling' meme when you gamble in game."
+  }
+}
